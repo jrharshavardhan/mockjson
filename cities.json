@@ -1,0 +1,17 @@
+{
+	"cities": [{
+			"City_Name": "Bengaluru",
+			"Latitude": "12.972442",
+			"Longitude": "77.580643",
+			"Temperature": "27  degree C",
+			"Humdity": "62%"
+		},
+		{
+			"City_Name": "Mysuru",
+			"Latitude": "12.311827",
+			"Longitude": "76.652985",
+			"Temperature": "28 degree C",
+			"Humdity": "62%"
+		}
+	]
+}
